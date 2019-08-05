@@ -1,6 +1,6 @@
 # Basically, I was on reddit.
-<br>
-# r/teenagers to be specific
+
+## r/teenagers to be specific
 <br>
 I was seeing a lot of posts with claps in the title, and people complaining it took to long to type. So what is a programmer to do?
 <br>
